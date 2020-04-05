@@ -1,3 +1,3 @@
-.main-tech{display:block;
-    justify-content:center;
-    flex-direction:column}.main-tech>.wrapper-video{margin-bottom:var(--gap-big)}.main-tech.card-tech{margin-bottom:var(--gap-big)}
+.main-tech{display:block;justify-content:center;flex-direction:column}
+.main-tech>.wrapper-video{margin-bottom:var(--gap-big)}
+.main-tech.card-tech{margin-bottom:var(--gap-big)}

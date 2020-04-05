@@ -1,1 +1,6 @@
-.title-tech{font-family:Bungee,sans-serif;font-size:var(--size-medium);font-weight:700;color:var(--color-gueio-first);word-wrap:break-word}
+.title-tech{font-family:Bungee,sans-serif;font-size:var(--size-medium);font-weight:700;
+    color:var(--color-gueio-first);
+    word-wrap:break-word;margin-bottom: var(--gap-medium);margin-top:0 ;margin-left:var(--gap-medium);margin-right:var(--gap-medium);}
+
+    
+    

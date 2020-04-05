@@ -1,5 +1,1 @@
-.content-tech{font-size:var(--size-small);line-height:1.1}
-.content-tech>em{text-decoration:underline;
-    text-decoration-color:var(--color-gueio-first);
-    text-decoration-thickness:4px}
-.content-tech>strong{background-color:var(--color-gueio-first);color:var(--color-base-light);}
+.content-tech{font-size:var(--size-small);line-height:1.3;text-align:justify}
