@@ -1,7 +1,7 @@
 .card-tech{box-sizing:border-box;border-radius:var(--radius-big);background-color:var(--color-base-light);display:inline-flex;
     align-items:center;
 flex-direction:column;padding-bottom:var(--gap-medium);margin-bottom:var(--gap-medium);overflow:hidden;transform-origin:center;
-transition:transform .2s linear;max-width:400px;width:400px;margin-right:calc(var(--gap-medium)/ 2);margin-left: 0;}
+transition:transform .2s linear;max-width:400px;width:400px;margin-right:calc(var(--gap-medium)/ 2);margin-left: calc(var(--gap-medium)/ 2);}
 .card-tech:hover{transform:scale(1.05)}
 .card-tech>.logo{--height-logo:200px;display:flex;justify-content:center;align-items:center;
 width:100%;background-color:var(--color-gueio-first-light);margin-bottom:var(--gap-medium);
